@@ -1,6 +1,6 @@
 def roll_call_dwarves(name)
-  name = ["Doc", "Dopey", "Bashful", "Grumpy"]
-    puts name
+  roll_call_dwarves["Doc", "Dopey", "Bashful", "Grumpy", "Happy", "sleepy", "Sneezy"]
+    puts roll_call_dwarves
   # Your code here
 end
 

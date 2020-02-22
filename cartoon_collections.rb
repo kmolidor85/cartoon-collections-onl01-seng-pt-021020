@@ -1,10 +1,10 @@
 def roll_call_dwarves["Doc", "Dopey", "Bashful", "Grumpy", "Happy", "sleepy", "Sneezy"]
-  roll_call_dwarves.each do |roll_call_dwarves|
+  roll_call_dwarves.each do |role|
     puts roll_call_dwarves
   # Your code heree
 end
 
-def summon_captain_planet["Earth", "Wind", "Fire", "Water", "Heart"]
+def summon_captain_planet["earth", "wind", "fire", "water", "heart"]
   
   # Your code here
 end

@@ -1,14 +1,20 @@
 def roll_call_dwarves(dwarfs)
-
+  dwarfs.each_with_index do | name , index |
+    puts "#{index + 1} #{name}"
+  end
   # Your code heree
 end
 
-def summon_captain_planet["earth", "wind", "fire", "water", "heart"]
-  
+def summon_captain_planet(elements)
+  elements.collect do | name , index |
+  call.capitalize + "!"
   # Your code here
 end
 
-def long_planeteer_calls# code an argument here
+def long_planeteer_calls(calls)
+  answer = flase
+  calls .each do |call|
+    
   # Your code here
 end
 

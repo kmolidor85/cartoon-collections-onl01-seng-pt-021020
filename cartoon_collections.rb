@@ -1,6 +1,5 @@
-def roll_call_dwarves["Doc", "Dopey", "Bashful", "Grumpy", "Happy", "sleepy", "Sneezy"]
-  roll_call_dwarves.each do |role|
-    puts roll_call_dwarves
+def roll_call_dwarves(dwarfs)
+
   # Your code heree
 end
 

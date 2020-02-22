@@ -4,7 +4,8 @@ def roll_call_dwarves["Doc", "Dopey", "Bashful", "Grumpy", "Happy", "sleepy", "S
   # Your code heree
 end
 
-def summon_captain_planet# code an argument here
+def summon_captain_planet["Earth", "Wind", "Fire", "Water", "Heart"]
+  
   # Your code here
 end
 

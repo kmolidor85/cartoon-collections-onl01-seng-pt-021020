@@ -1,4 +1,6 @@
-def roll_call_dwarves# code an argument here
+def roll_call_dwarves(name)
+  name = ["Doc", "Dopey", "Bashful", "Grumpy"]
+    puts name
   # Your code here
 end
 
